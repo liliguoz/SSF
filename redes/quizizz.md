@@ -69,3 +69,46 @@ a) Un hub activo <br> b) Un concentrador pasivo <br> c) **Un repetidor pasivo** 
 
 
 # CAPA 4 (TRANSPORTE) + CAPAS 5, 6 Y 7 (SESIÓN, PRESENTACIÓN Y APLICACIÓN) + ADMINISTRACIÓN DE SISTEMAS OPERATIVOS EN RED
+
+1) ¿Qué es FALSO sobre una dirección IP(IPv4)?
+
+a) **En todo el mundo no hay 2 equipos con la misma dirección IP** <br>
+b) Tienen 32 bits (4 bytes), siendo el total de más de 4.200 billones <br>
+c) Se suelen representar en decimal separando cada número con un punto: 1.2.3.4 <br>
+d) No todas las IPs son iguales, hay clases, públicas, privadas, reservadas, etc. <br>
+
+2) ¿Qué dispositivo son de la capa 3 (y 4)?
+
+a) router <br>
+b) **switch** <br>
+c) AP <br>
+d) **firewall** <br>
+e) hub
+
+3) ¿Qué protocolo es CORRECTO?
+
+a) ICMP: Difunde las tablas de routeo a routers próximos. <br>
+b) BGP: Envia mensajes de control para determinar el estado de la conexión <br>
+c) ARP: Obtiene la dirección MAC a partir de la IP <br>
+d) RIP: Traduce las direcciones de red en el router 
+
+4) Mi organización tiene 1000 equipos en la intranet y quiero que tengan conexión a Internet, pero NO se vean desde el exterior, ¿Qué tipo de IPs debo tener?
+
+a) Debo usar IPs estáticas en equipos y dinamica en router <br>
+b) Debo usar IPs dinamicas en equipos y router. <br>
+c) Debo usar IPs públicas en los quipos y router con IP privada <br>
+d) Debo usar IPs privadas y estar detrás de un router con IP pública
+
+5) No todas las IPs de una red son útiles. Hay algunas con significado especial. Elige la afirmación FALSA
+
+a) En todas las redes hay 2 direcciones reservadas, la primera y la última. <br>
+b) La ID de red junto a la mascara sirven para representar a todas las IPs de esa red <br>
+c) Si mando un mensaje a la ultima IP de una red, le llegará a todos los equipos de la red. <br>
+d) **La ID de red tiene todos los bits de red a 1 y los de broadcasing a 0**
+
+6) En general, ¿se produce fragmetnacion y reesamblaje de paquetes en la capa 3?
+
+a) No, la capa 3 no soporta esto, es la capa 4 la que se encarga <br>
+b) El router se encarga de realizar la fragmentacion y reensamblaje. <br>
+c) La fragmentacion se haria en rputers y el reensamblaje en el host del destino
+d) 
