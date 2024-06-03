@@ -110,5 +110,37 @@ d) **La ID de red tiene todos los bits de red a 1 y los de broadcasing a 0**
 
 a) No, la capa 3 no soporta esto, es la capa 4 la que se encarga <br>
 b) El router se encarga de realizar la fragmentacion y reensamblaje. <br>
-c) La fragmentacion se haria en rputers y el reensamblaje en el host del destino
-d) 
+c) La fragmentacion se haria en rputers y el reensamblaje en el host del destino<br>
+d) Fragmentación y reensamblaje es gestionado por los swithes
+
+7) Elige la afirmacion falsa sobre los puertos
+
+a) El uso de cada puerto la asigna IUANA y no se pueden cambiar
+
+8) Viendo solo dos IPs, piuedo saber si pertenece o no a la misma red
+
+a) necesitas la mascara
+
+9) Para configurar una IP estatica, hay que indicar al menos tres paramentro.
+
+a) MAC
+
+10) En un servidor web que quiero que se peuda acceder desde cualquier parte del mundo, en general, que tipo de IP nos interesa.
+
+a) estatica y publica
+
+11) ¿cual de las siguientes ip podria ser valida apra un servidor web accesible desde cualquier situo de internet?
+
+a) 172.57.25.31
+
+12) Cuando indico el CIDR por ejemplo /27, ¿que quiero decir?
+
+a) bits de la mascara de 1 a 27
+
+13) que no forma parte de un socket?
+
+a) mascara
+
+14) que es falso sobre NAT
+
+
